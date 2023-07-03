@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://dulcet-semolina-b97292.netlify.app/]
+- Live Site URL: [https://card-preview-component-token.netlify.app/]
 
 ## My process
 
